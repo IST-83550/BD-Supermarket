@@ -1,0 +1,82 @@
+.btn-primary {
+    background-color: #009DE0;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary.focus {
+    background-color: #058ac5;
+}
+
+.sections {
+    color: #404040;
+    text-align: center;
+}
+
+.table > thead > tr > th:last-of-type {
+    position: unset !important;
+}
+
+.lead {
+    color: #404040;
+}
+
+h1, h2 {
+    color: #404040 !important;
+}
+
+h1.title {
+    font-size: 45px;
+}
+
+.nav-tabs>li>a {
+    color: #525252;
+}
+
+.dropdown-menu>li>a {
+    color: #525252;
+}
+
+table form {
+    text-align: center;
+}
+
+.jumbotron h1 {
+    font-size: 35px;
+}
+
+th {
+    text-align: center;
+}
+
+.table>thead>tr>th .btn, .table>tbody>tr>th .btn, .table>thead>tr>td .btn, .table>tbody>tr>td .btn {
+    padding: 5px 18px;
+}
+
+.alert-success {
+    border-color: #449d44;
+    color: #449d44;
+}
+
+.input-group-btn {
+    font-size: 13px;
+}
+
+.input-group-btn button {
+    width: 100%;
+}
+
+.icon-trash, .icon-plus-circled, .icon-arrows-ccw {
+    padding-right: 3%;
+}
+
+.icon-attention, .icon-check {
+    padding-right: 5px;
+}
+
+
+.btn {
+    font-weight: 500;
+}
+
+#ui-datepicker-div {
+    z-index: 10 !important;
+}
